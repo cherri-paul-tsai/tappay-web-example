@@ -1,4 +1,4 @@
-# TapPay Web Example
+# TapPay Web Example test~~~~~~~~~
 
 此專案是 TapPay SDK Get Prime 的範例
 我們會介紹使用以下幾種 Get Prime 的方式
